@@ -199,6 +199,7 @@ nav{
 
 }
 
+
 .title{
     font-weight: bold;
     font-family: 'Cocomat Pro Bold';
@@ -945,6 +946,10 @@ footer{
         margin-top: -2rem;
     } 
 
+    #btn-explorar{
+    display: none;
+}
+
     /*---------------BENEFÍCIOS---------------*/
 
 
@@ -1140,6 +1145,9 @@ footer{
         height: auto;
     }
 
+    .accordion-header{
+        font-size: 12px;
+    }
     /*---------------FOOTER---------------*/
     
     .footer-container {
