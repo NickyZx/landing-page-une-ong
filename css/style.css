@@ -64,10 +64,9 @@ p{
     font-family: 'Cocomat Pro Bold';
     font-weight: bold;
     color: var(--text-color);
-    font-size: 1.5rem;
+    font-size: 2rem;
     text-align: center;
     margin: 2.5rem 0;
-    text-shadow: 0 0.313rem 0.313rem rgba(0, 0, 0, 0.15);
 }
 
 body{
